@@ -59,3 +59,7 @@ This project demonstrates an effective pipeline for flower recognition using a c
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+```bash
+Made with 💖 by Hamza Sajjad.
+```
